@@ -12,8 +12,8 @@
 
 دموی زنده
 
-- [ماشین حساب ساده](https://masoumeh-rr.github.io/Calculator/01_Simple_Calculator/index.html/)
-- [ماشین حساب بصری](https://masoumeh-rr.github.io/Calculator/02_Basic_Calculator/index.html/)
+- [ماشین حساب ساده](https://masoumeh-rr.github.io/Calculator/01_Simple_Calculator/)
+- [ماشین حساب بصری](https://masoumeh-rr.github.io/Calculator/02_Basic_Calculator/)
 
 
  تکنولوژی‌ها
