@@ -28,7 +28,7 @@ for (let i = 0; i < btn.length; i++) {
 function showResault() {
     try {
         const resaulted = new Function("return " + result.value)();
-        if (isNaN(resaulted) || isFinite(resaulted)) {
+        if (isNaN(resaulted) || !isFinite(resaulted)) {
             result.value = "Err";
         } else {
             result.value = resaulted;
